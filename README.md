@@ -4,9 +4,8 @@
  <b>Frontend Development, Data & Machine Learning •Data Analyst • IT Project</b>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6WcW0e136mYgP6/giphy.gif" alt="Octocat Sticker" width="250"/>
+  <img src="https://media.giphy.com/media/26n6WcW0e136mYgP6/giphy.gif" alt="Cat Relaxing Coding Gif" width="250"/>
 </div>
-
 
 ### 👨🏻‍💻 About Me
 
