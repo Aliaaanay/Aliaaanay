@@ -1,6 +1,6 @@
 # 👋 Hello, world! I'm Sabrina Luna Apsari Faizah
 
-### ☕ About Me
+### 👨🏻‍💻 About Me
 
 * **Name:** Sabrina Luna A.F
 * **Study:** 🎓 Informatics @ Universitas Pamulang
