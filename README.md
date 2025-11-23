@@ -12,7 +12,7 @@
   <li><b>Study:</b> 🎓 Informatics @ Universitas Pamulang</li>
   <li><b>Track:</b> 📊 Frontend Development / Data Analyst / Machine Learning</li>
   <li><b>Experience:</b> 👩🏻‍💻 </li>
-  <li><b>Fun Fact:</b> ☕ Fueled by coffee + data curiosity</li>
+  <li><b>Fun Fact:</b> ☕ Fueled by ice coffee susu + data curiosity</li>
 </ul>
 
 ---
