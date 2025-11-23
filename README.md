@@ -1,7 +1,7 @@
 # 👋 Hello, world! I'm Sabrina Luna Apsari Faizah
 
- # Frontend Development, Data & Machine Learning •Data Analyst • IT Project <div align="center">
-  <img src="https://media.giphy.com/media/Q81NCSJdF3E7Xw5uM8/giphy.gif" alt="Minimalist Cat Coding" width="250"/>
+ # Frontend Development, Data & Machine Learning •Data Analyst • IT Project<div align="center">
+  <img src="https://octodex.github.com/images/codercat.jpg" alt="Octocat Coder" width="250"/>
 </div>
 
 ---
