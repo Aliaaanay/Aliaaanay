@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, world!👋 I’m <b>SABRINA</b> LUNA APSARI FAIZAH</h1>
-  <h3>Product, Data & Machine Learning Enthusiast • Hustler • IT Project & Product Management </h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  <h3>Frontend Development • Data & Machine Learning • Data Analyst • IT Project </h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTZyOG04aDVqamJnbG8ybmJmOWxpanc2Zm5ibnJmaDhwcjgwa2F2ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/begSgSG5lCl8bxkBiv/giphy.gif" width=200">
 </div>
 
 ---
@@ -19,15 +19,7 @@
 
 ## 📂 Featured Repositories  
 
-🌟 **[Coding Camp 2025 powered by DBS Foundation x Dicoding](https://github.com/nabilalwyh/cc25-dicoding-machine-learning)**  
-A collection of **Machine Learning Engineer** projects developed during the Coding Camp 2025 program.  
 
-🌟 **[Asah led by Dicoding in association with Accenture](https://github.com/nabilalwyh/asah-dicoding-react)**
-
-A collection of **React & Back-End with AI** projects developed during the Asah program.  
-
-🌟 **VM LePKom – Gunadarma University**  
-- [Golang Beginner](https://github.com/nabilalwyh/Golang-Beginner)  
 
 
 ---
