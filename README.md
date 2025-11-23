@@ -2,9 +2,9 @@
  <b>  Hello, world! 👋 I'm Sabrina Luna Apsari Faizah
 </h1>
 
-<div align="center">
+<h2 align="center">
   Frontend Development • Data & Machine Learning • Data Analyst • IT Project
-</div>
+</h2>
 
 ---
 
