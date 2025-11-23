@@ -1,29 +1,71 @@
-<h1 align="center">
- <b>  Hello, world! 👋 I'm Sabrina Luna Apsari Faizah
-</h1>
-
-<h2 align="center">
-  Frontend Development • Data & Machine Learning • Data Analyst • IT Project
- <br>
- <br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnozdW1ibGgzaTc3aDJnMm5ybmlicW95ZHA4eHB5ZXI5NzNlOThtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Face Vomiting" width="250" height="250"/>
- <br>
- <br>
-</h2>
-
-<h3>
- <b> 👨🏻‍💻 About Me
-</h3>
-
-* **Name:** Sabrina Luna A.F
-* **Study:** 🎓 Informatics @ Universitas Pamulang
-* **Track:** 💻 frontend development / Data Analyst / Machine learning
-* **Experience:**
-* **Fun Fact:** ☕ fueled by ice coffee susu + data curiosity
+<div align="center">
+  <h1>Hello, world!👋 I’m <b>SABRINA</b> LUNA APSARI FAIZAH</h1>
+  <h3>Product, Data & Machine Learning Enthusiast • Hustler • IT Project & Product Management </h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</div>
 
 ---
 
-### Featured Repositories
+## 👨🏻‍💻 About Me
+<ul>
+  <li><b>Name:</b> Sabrina Luna Apsari Faizah</li>
+  <li><b>Study:</b> 🎓 Informatics @ Universitas Pamulang</li>
+  <li><b>Track:</b> 📊 Frontend Development / Data Analyst / Machine Learning</li>
+  <li><b>Experience:</b> 👩🏻‍💻 </li>
+  <li><b>Fun Fact:</b> ☕ Fueled by coffee + data curiosity</li>
+</ul>
+
+---
+
+## 📂 Featured Repositories  
+
+🌟 **[Coding Camp 2025 powered by DBS Foundation x Dicoding](https://github.com/nabilalwyh/cc25-dicoding-machine-learning)**  
+A collection of **Machine Learning Engineer** projects developed during the Coding Camp 2025 program.  
+
+🌟 **[Asah led by Dicoding in association with Accenture](https://github.com/nabilalwyh/asah-dicoding-react)**
+
+A collection of **React & Back-End with AI** projects developed during the Asah program.  
+
+🌟 **VM LePKom – Gunadarma University**  
+- [Golang Beginner](https://github.com/nabilalwyh/Golang-Beginner)  
 
 
-### 🤝🏻 Connect with Me
+---
+
+## 🤝🏻 Connect with Me
+
+<p>
+  <a href="mailto:nabilaalawiyah.25@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/nabilaalawiyah" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/> 
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<div>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<details>
+  <summary>⚡ <strong>Stats & Streak</strong></summary>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabilalwyh&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilalwyh&background=eff1f5&hide_border=true"/>
+</details>
+
+<details>
+  <summary>📊 <strong>Most Used Languages</strong></summary>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilalwyh&layout=compact&langs_count=8&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"/>
+</details>
+
