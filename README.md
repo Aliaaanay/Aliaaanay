@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 About Me
 
-* **Name : ** Sabrina Luna A.F
-* 🎓 **Study:**  Informatics @ Universitas Pamulang
-* 💻 **Track:** frontend development / Data Analyst / Machine Learning
-* 💼 **Experience:** 
-* ✨ **Fun Fact:**  Fueled by ice coffee susu + data curiosity
+*Name : ** Sabrina Luna A.F
+🎓 **Study:**  Informatics @ Universitas Pamulang
+💻 **Track:** frontend development / Data Analyst / Machine Learning
+💼 **Experience:** 
+✨ **Fun Fact:**  Fueled by ice coffee susu + data curiosity
