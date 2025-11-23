@@ -6,7 +6,7 @@
 * **Study:** 🎓 Informatics @ Universitas Pamulang
 * **Track:** 💻 frontend development / Data Analyst / Machine learning
 * **Experience:**
-* **Fun Fact:** fueled by ice coffee susu + data curiosity
+* **Fun Fact:** ☕ fueled by ice coffee susu + data curiosity
 
 ---
 
