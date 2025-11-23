@@ -27,7 +27,7 @@
 ## 🤝🏻 Connect with Me
 
 <p>
-  <a href="mailto:apsarifaizah@gmail.com" title="Gmail">
+  <a href="apsarifaizah@gmail.com" title="Gmail">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/> 
   </a>
   <a href="https://www.linkedin.com/in/sabrina-luna-apsari-faizah" title="LinkedIn">
