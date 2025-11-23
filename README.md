@@ -30,7 +30,7 @@
   <a href="mailto:apsarifaizah@gmail.com" title="Gmail">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/> 
   </a>
-  <a href="https://www.linkedin.com/in/nabilaalawiyah" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/sabrina-luna-apsari-faizah" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/> 
   </a>
 </p>
