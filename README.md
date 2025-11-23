@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">
+<h3>
  <b> 👨🏻‍💻 About Me
 </h3>
 
