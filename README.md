@@ -43,6 +43,7 @@
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
+  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" title="React"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
 </div>
 
