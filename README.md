@@ -1,6 +1,9 @@
 # 👋 Hello, world! I'm Sabrina Luna Apsari Faizah
 
  # Frontend Development, Data & Machine Learning •Data Analyst • IT Project
+<div align="center">
+  <img src="https://media.giphy.com/media/26n6WcW0e136mYgP6/giphy.gif" alt="Cat Relaxing Coding Gif" width="250"/>
+</div>
 
 ---
 
