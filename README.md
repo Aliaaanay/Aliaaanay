@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### 👾 About Me ###
+### 👨🏻‍💻 About Me
 
 * **Name : ** Sabrina Luna A.F
 * 🎓 **Study:**  Informatics @ Universitas Pamulang
