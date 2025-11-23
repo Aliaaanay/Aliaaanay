@@ -2,9 +2,8 @@
  <b>  Hello, world! 👋 I'm Sabrina Luna Apsari Faizah
 </h1>
 
-# Frontend Development • Data & Machine Learning • Data Analyst • IT Project
 <div align="center">
-  <img src="https://i.imgur.com/2Yc5RjQ.gif" alt="Cat Typing GIF" width="250"/>
+  Frontend Development • Data & Machine Learning • Data Analyst • IT Project
 </div>
 
 ---
