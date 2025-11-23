@@ -42,6 +42,7 @@
 <div>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/?size=48&id=J79emsSv2QCu&format=png&color=000000" title="React"/>
+  <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000" title="Java"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
 
