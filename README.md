@@ -27,7 +27,7 @@
 ## 🤝🏻 Connect with Me
 
 <p>
-  <a href="mailto:nabilaalawiyah.25@gmail.com" title="Gmail">
+  <a href="mailto:apsarifaizah@gmail.com" title="Gmail">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/> 
   </a>
   <a href="https://www.linkedin.com/in/nabilaalawiyah" title="LinkedIn">
@@ -50,14 +50,4 @@
 
 ## 📈 GitHub Stats
 
-<details>
-  <summary>⚡ <strong>Stats & Streak</strong></summary>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabilalwyh&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilalwyh&background=eff1f5&hide_border=true"/>
-</details>
-
-<details>
-  <summary>📊 <strong>Most Used Languages</strong></summary>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilalwyh&layout=compact&langs_count=8&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"/>
-</details>
 
