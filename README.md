@@ -4,7 +4,7 @@
  <b>Frontend Development, Data & Machine Learning •Data Analyst • IT Project</b>
 </div>
 <div align="center">
-  <img src="https://octodex.github.com/images/codercat.jpg" alt="Octocat Sticker" width="250"/>
+  <img src="https://media.giphy.com/media/26n6WcW0e136mYgP6/giphy.gif" alt="Octocat Sticker" width="250"/>
 </div>
 
 
