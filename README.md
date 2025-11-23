@@ -6,7 +6,7 @@
   Frontend Development • Data & Machine Learning • Data Analyst • IT Project
  <br>
  <br>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z2Fjczg4cTBwZWZ1Njd3djh0ZjF2ZXh0Z2MzNmkxcDh6NzBzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Face Vomiting" width="250" height="250" />
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJrbm9oMjVrand4Z3k5cjliOGxxdHpmeHVla2ZiMmEzNjBibjR4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GB6qkAvTyB1r8sOPuS/giphy.gif" alt="Face Vomiting" width="250" height="250" />
  <br>
  <br>
 </h2>
