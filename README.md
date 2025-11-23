@@ -5,7 +5,7 @@
 <h2 align="center">
   Frontend Development • Data & Machine Learning • Data Analyst • IT Project
 </h2>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Vomiting.png" alt="Face Vomiting" width="25" height="25" />
 ---
 
 ### 👨🏻‍💻 About Me
