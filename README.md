@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/26n6WcWc136mYgP6/giphy.gif" alt="Cat Relaxing Coding Gif" width="260"/>
 </div>
 
+---
+
 ### 👨🏻‍💻 About Me
 
 * **Name:** Sabrina Luna A.F
