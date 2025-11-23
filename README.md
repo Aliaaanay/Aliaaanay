@@ -4,7 +4,7 @@
 
 <h2 align="center">
   Frontend Development • Data & Machine Learning • Data Analyst • IT Project
- 
+ <br>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z2Fjczg4cTBwZWZ1Njd3djh0ZjF2ZXh0Z2MzNmkxcDh6NzBzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Face Vomiting" width="250" height="250" />
 </h2>
 
