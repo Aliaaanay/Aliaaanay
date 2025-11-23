@@ -27,7 +27,7 @@
 ## 🤝🏻 Connect with Me
 
 <p>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#drafts?compose=lqrsljbfTzfJfQSSbVBSzwLMSFflFvRrNZDChqMHpcNkrgdhXDKDzHtcrzwkHkmlsjdbPTTjLQpBFmvTp" title="Gmail">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWPhLKZHZvfqSTjhbblkkJcwqLLmBmFncPtmLFQBWTLfDKTnbXJdJRcDvlcFhhXbLWSNq" title="Gmail">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/> 
   </a>
   <a href="https://www.linkedin.com/in/sabrina-luna-apsari-faizah" title="LinkedIn">
