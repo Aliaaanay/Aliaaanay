@@ -41,7 +41,7 @@
 
 <div>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" title="React"/>
+  <img src="https://img.icons8.com/?size=100&id=Ax6abTiOhdzW&format=png&color=000000" title="React"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
 
