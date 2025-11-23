@@ -1,6 +1,8 @@
 # 👋 Hello, world! I'm Sabrina Luna Apsari Faizah
 
-  #  Frontend Development, Data & Machine Learning •Data Analyst • IT Project 
+<div align="center">
+  Frontend Development, Data & Machine Learning •Data Analyst • IT Project 
+</div>
 
 
 ### 👨🏻‍💻 About Me
