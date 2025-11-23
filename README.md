@@ -45,6 +45,7 @@
   <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000" title="Java"/>
   <img src="https://img.icons8.com/?size=48&id=40669&format=png&color=000000" title="C++"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/?size=48&id=8rKdRqZFLurS&format=png&color=000000" title="MangoDb"/>
   <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
