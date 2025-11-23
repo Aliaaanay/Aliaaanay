@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, world!👋 I’m <b>SABRINA</b> LUNA APSARI FAIZAH</h1>
   <h3>Frontend Development • Data & Machine Learning • Data Analyst • IT Project </h3>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDcwcDhtNWFqYm16bGI5aHo3bnJtZGZ5amcwZnlyMDlzOThkenhpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="77">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDcwcDhtNWFqYm16bGI5aHo3bnJtZGZ5amcwZnlyMDlzOThkenhpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="85">
 </div>
 
 ---
