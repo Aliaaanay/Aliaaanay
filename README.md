@@ -54,7 +54,7 @@
 ## 💌 Hubungi Saya
 
 <p align="center">
-  <a href="mailto:email-anda@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWPhLKZHZvfqSTjhbblkkJcwqLLmBmFncPtmLFQBWTLfDKTnbXJdJRcDvlcFhhXbLWSNq" title="Gmail">
     <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail Icon Modern" width="65"/>
   </a>
   <a href="https://www.linkedin.com/in/sabrina-luna-apsari-faizah" title="LinkedIn">
