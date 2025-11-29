@@ -23,6 +23,8 @@
   
   ### Bahasa dan Development
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP Badge" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
