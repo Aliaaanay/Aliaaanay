@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB3Z2l0NTQ1dG1hMGZrbWp2N2VkNTd6czMzbTR4Y2ZtMWQ2M3JzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oE28uSgJ2a7VzG1x/giphy.gif" width="120" alt="Code Typing GIF">
-  <h1>Halo, Dunia! Saya <b>SABRINA LUNA APSARI FAIZAH</b> 🚀</h1>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzOG41YjJsa2RwNHZnaHdodWZ2MTY0MDQ4NWVrMHM2d3U4anBqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efuh1hLg1H438esuwG/giphy.gif" width="120" alt="Code Typing GIF">
+  <h1>Halo, Everyone! Saya <b>SABRINA LUNA APSARI FAIZAH</b> 🚀</h1>
   <p>Mahasiswi Teknik Informatika yang bersemangat dalam <b>Frontend Development</b>, <b>Analisis Data</b>, dan <b>Machine Learning</b>.</p>
 </div>
 
@@ -41,24 +41,13 @@
 
 ## 📂 Repositori Unggulan
 
-<p align="center">
-  <a href="[Link ke Proyek Frontend Anda]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username-anda]&repo=[nama-repo-frontend]&theme=github_dark&title_color=00ff73&icon_color=00ff73&hide_border=true" alt="Frontend Project Pin" />
-  </a>
-  <a href="[Link ke Proyek Data Science/ML Anda]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username-anda]&repo=[nama-repo-data]&theme=github_dark&title_color=00ff73&icon_color=00ff73&hide_border=true" alt="Data Science Project Pin" />
-  </a>
-</p>
+
 
 ---
 
 ## 📈 Aktivitas GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-anda]&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff73&icon_color=00ff73" alt="Sabrina's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-anda]&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00ff73&icon_color=00ff73" alt="Top Languages"/>
-</div>
+
 
 ---
 
