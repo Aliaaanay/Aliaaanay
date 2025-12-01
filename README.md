@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzOG41YjJsa2RwNHZnaHdodWZ2MTY0MDQ4NWVrMHM2d3U4anBqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efuh1hLg1H438esuwG/giphy.gif" width="130" alt="Code Typing GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzOG41YjJsa2RwNHZnaHdodWZ2MTY0MDQ4NWVrMHM2d3U4anBqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efuh1hLg1H438esuwG/giphy.gif" width="200" alt="Code Typing GIF">
   <h1>Halo, Everyone! Saya <b>SABRINA LUNA APSARI FAIZAH</b> 🚀</h1>
   <p>Mahasiswi Teknik Informatika yang bersemangat dalam <b>Frontend Development</b>, <b>Analisis Data</b>, dan <b>Machine Learning</b>.</p>
 </div>
